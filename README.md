@@ -1,4 +1,10 @@
 # 🍔 Telegram Food Ordering Bot
+---
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)
+---
 
 A Telegram-based food ordering bot built with **Python**, **python-telegram-bot**, and **SQLite**. Users can register, browse food categories, add products to a cart, and place orders. Admins can manage categories and products and receive orders directly in a Telegram group.
 
